@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Welcome') {
             steps {
-                echo 'Welcome to Multi-branch Pipeline project'
+                echo 'Welcome'
             }
         }
     }
